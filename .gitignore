@@ -1,0 +1,4 @@
+invalidTemplates.json
+node_modules/
+dist/
+.vscode/

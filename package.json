@@ -1,0 +1,13 @@
+{
+  "main": "index.js",
+  "author": "Emarsys",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mongoose": "^4.10.8"
+  }
+}
